@@ -1,6 +1,6 @@
 # BasicPasswordGenerator
 Open source script, written in Python, that randomly generates long and fast passwords.
-<br>
+<hr>
 <img src="picture(s)/app.png">
 
 <H2>"etc/" files details:</H2>
